@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "carnival-network-graphql",
+	"name": "Carnival Network GraphQL",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "GraphQL wrapper for the Carnival Network external REST API.",
+	"author": "L V N A C Y",
+	"authorUrl": "https://github.com/xlvnacyx",
+	"fundingUrl": "https://github.com/xlvnacyx",
 	"isDesktopOnly": false
 }
